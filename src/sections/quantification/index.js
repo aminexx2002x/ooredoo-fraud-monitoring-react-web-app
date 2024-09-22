@@ -1,0 +1,1 @@
+export { default as QuantificationView } from './quantification_view';

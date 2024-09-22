@@ -1,0 +1,1 @@
+export { default as InfoMsisdnView } from './info_msisdn_view';

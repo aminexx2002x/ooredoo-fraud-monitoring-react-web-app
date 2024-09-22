@@ -1,0 +1,1 @@
+export { default as InfoTraficView } from './info_trafic_view';

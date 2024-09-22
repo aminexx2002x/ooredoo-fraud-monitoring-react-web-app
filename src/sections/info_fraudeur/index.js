@@ -1,0 +1,1 @@
+export { default as InfoFraudeurView } from './info_fraudeur_view';

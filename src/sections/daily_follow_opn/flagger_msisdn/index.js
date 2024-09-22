@@ -1,0 +1,1 @@
+export { default as FlaggerMsisdnView } from './flagger_msisdn_view';

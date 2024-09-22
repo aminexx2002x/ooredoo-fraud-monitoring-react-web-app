@@ -1,0 +1,1 @@
+export { default as SuiviMsisdnView } from './suivi_msisdn_view';
